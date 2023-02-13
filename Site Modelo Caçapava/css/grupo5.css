@@ -126,10 +126,12 @@ footer{
     padding-right: 10px;
 }
 
-.carousel-slide {
+.carousel-item active {
 
-
+display:flex;
+justify-content: center;
 }
+
 
 .footer-icons {
     display: flex;
